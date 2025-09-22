@@ -3,7 +3,7 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-!Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 Los pasos para poner en ejecución son los siguientes Ir a la pagina web de JavaScript y descargarlo para tu sistema operativo, escoger la versión LTS y tambien escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 ```Pagina web
