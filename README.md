@@ -7,7 +7,7 @@
 
 Los pasos para poner en ejecución son los siguientes Ir a la pagina web de JavaScript y descargarlo para tu sistema operativo, escoger la versión LTS y tambien escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 ```Pagina web
-[https://www.python.org/downloads/](https://nodejs.org)
+https://nodejs.org
 ```
 
 
