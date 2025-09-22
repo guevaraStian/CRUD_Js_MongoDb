@@ -3,6 +3,7 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
+!Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 Los pasos para poner en ejecución son los siguientes Ir a la pagina web de JavaScript y descargarlo para tu sistema operativo, escoger la versión LTS y tambien escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 ```Pagina web
@@ -20,8 +21,15 @@ node -v
 npm -v
 ```
 MONGO BASE DE DATOS
+
+
 Con el fin de instalar el motor de la base de datos mongo db a la pagina web de MongoDb y descargamos el ejecutable y lo ejecutamos, luego de finalizar la instalación abrimos el Compass de MongoDb
 ```Terminal de comandos
 https://www.mongodb.com/es/products/tools/compass
 ```
-
+Luego descargamos el repositorio, ingresamos a la carpeta descargada y ejecutamos cualquiera de los siguiente comando
+```Terminal de comandos
+node index.js
+nodemon index.js
+npm start
+```
