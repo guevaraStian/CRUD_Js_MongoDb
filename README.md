@@ -27,8 +27,19 @@ Con el fin de instalar el motor de la base de datos mongo db a la pagina web de 
 ```Terminal de comandos
 https://www.mongodb.com/es/products/tools/compass
 ```
+
+Despues de haber instalado Javascript y confirmar la version, instalamos git y descargamos el proyecto.
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/CRUD_Js_MongoDb.git
+git push origin master
+```
+
+
 Luego descargamos el repositorio, ingresamos a la carpeta descargada y ejecutamos cualquiera de los siguiente comando
 ```Terminal de comandos
+cd CRUD_Js_MongoDb
 node index.js
 nodemon index.js
 npm start
