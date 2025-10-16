@@ -5,9 +5,10 @@
 
 ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Los pasos para poner en ejecución son los siguientes Ir a la pagina web de JavaScript y descargarlo para tu sistema operativo, escoger la versión LTS y tambien escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
+Los pasos para poner en ejecución son los siguientes Ir a la pagina web de JavaScript y Git, luego descargarlo para tu sistema operativo, escoger la versión LTS y tambien escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 ```Pagina web
 https://nodejs.org
+https://git-scm.com/downloads
 ```
 
 
