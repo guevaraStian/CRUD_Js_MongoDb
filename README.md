@@ -45,3 +45,4 @@ node index.js
 nodemon index.js
 npm start
 ```
+Luego procedemos a ver en que puerto se habilito la aplicacion y luego le damos abrir el localhost en un pestaña del navegador 
