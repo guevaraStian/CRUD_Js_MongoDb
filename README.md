@@ -29,7 +29,7 @@ Con el fin de instalar el motor de la base de datos mongo db a la pagina web de 
 https://www.mongodb.com/es/products/tools/compass
 ```
 
-Despues de haber instalado Javascript y confirmar la version, instalamos git y descargamos el proyecto.
+Despues de haber instalado Javascript y confirmar la version, instalamos git y desde la pagina web del repositorio se puede dar click en boton verde y luego dowload y asi descargamos el proyecto, o ejecutando los siguientes comandos.
 ```Terminal de comandos
 git --version
 git init
